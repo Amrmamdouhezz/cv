@@ -1,0 +1,20 @@
+body {
+  background-color: aliceblue;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 10px;
+}
+h1
+{
+  color: #66BFBF;
+  font-style: italic;
+}
+h3
+{
+  color: #66BFBF;
+    font-style: oblique;
+}
